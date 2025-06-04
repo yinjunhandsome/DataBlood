@@ -7,10 +7,10 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>hive-blood</artifactId>
+    <artifactId>small_file_merge</artifactId>
     <packaging>jar</packaging>
 
-    <name>hive-blood</name>
+    <name>small_file_merge</name>
     <url>http://maven.apache.org</url>
 
     <properties>
